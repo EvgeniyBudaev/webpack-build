@@ -41,8 +41,13 @@ WEBPACK
 ### `npm install --save-dev node-sass sass-loader`
 установка плагинов :
 ### `npm install --save-dev html-webpack-plugin`
+### `npm install --save-dev mini-css-extract-plugin`
+утилита:
+### `npm install --save-dev webpack-dev-server`
 запустить webpack :
 ### `npm start`
+сборка webpack :
+### `npm run build`
 
 список loader:
 https://webpack.js.org/loaders/
